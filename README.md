@@ -3,9 +3,9 @@ Arduino Text Writing Sketch
 An arduino sketch that sends a looping message to a MAX7219 LED Matrix display module. Because of the high speed at which the message prints to the matrix, it can be used as a tool for writing messages in long exposure photography.
 
 
-##Setting Up the Arduino and MAX7219 Matrix
+## Setting Up the Arduino and MAX7219 Matrix
 
-###Components you'll need:
+### Components you'll need:
   * Arduino Uno board
   * 5 jumper wires (female/male)
   * MAX7219 Red Dot Matrix Display Module
@@ -14,7 +14,7 @@ An arduino sketch that sends a looping message to a MAX7219 LED Matrix display m
 ![Alt text](https://cloud.githubusercontent.com/assets/6833837/5483412/634e4080-863f-11e4-860d-e28800a4d49c.jpg)
 
 
-###Connecting the Components
+### Connecting the Components
 
 1. LED matrix connections to arduino:
   * VCC to 5V
@@ -28,7 +28,7 @@ An arduino sketch that sends a looping message to a MAX7219 LED Matrix display m
 ![Alt text](https://cloud.githubusercontent.com/assets/6833837/5483413/6be773ec-863f-11e4-8484-44e0983e2c5b.jpg)
 
 
-###Setting up the Arduino Sketch
+### Setting up the Arduino Sketch
 
 1. Download the Arduino software if you have not already: http://arduino.cc/en/Main/Software
 
