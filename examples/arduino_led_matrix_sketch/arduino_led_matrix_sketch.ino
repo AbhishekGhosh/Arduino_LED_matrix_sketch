@@ -20,7 +20,7 @@ int letterCounter=0;
 /* wait time between updates of the display */
 unsigned long delaytime=300;
 
-void setup() { // initalizes and sets up the initial values. Declaring function setup.
+void setup() { // initializes and sets up the initial values. Declaring function setup.
   /* The display module is in power-saving mode on startup.
   Do a wakeup call */
   Serial.begin(9600); // setting data rate as 9600 bits per second for serial data communication to computer
